@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 IMovies — Full-Stack MERN Cinema Reservation Platform
 
 Refer to the root [README.md](../README.md) for full project documentation, architectural overview, and 1-click launchers.
@@ -11,3 +12,6 @@ Refer to the root [README.md](../README.md) for full project documentation, arch
 ## Demo Logins
 - **Admin**: `admin@imovies.com` / `admin12345`
 - **Customer**: `user@imovies.com` / `user12345`
+=======
+# imovies-mern
+>>>>>>> 1d046ae7801feb0f674081ce9663bacc3a3e1cc7
